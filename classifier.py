@@ -51,5 +51,5 @@ def classify_clue(text):
 
 # print some outputs for now, just want to see if its working
 for sample in test[:10]:
-    category = classify_clue(sample.clue_text)
-    print(f"Clue: {sample.clue_text} \tPredicted: {category}")
+    category = classify_clue(sample.clue)
+    print(f"Clue: {sample.clue} \nPredicted: {category} \nAnswer: {sample.soln_with_spaces}\n\n")
