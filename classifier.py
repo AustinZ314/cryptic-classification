@@ -22,6 +22,7 @@ indicators = {
     "assemblage": load_indicators("assemblage.txt"),
     "container": load_indicators("container.txt"),
     "hidden_word": load_indicators("hidden_word.txt"),
+    "homophone": load_indicators("homophone.txt"),
     "double_def": load_indicators("double_def.txt"), 
 }
 
