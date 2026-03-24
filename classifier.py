@@ -23,7 +23,6 @@ indicators = {
     "container": load_indicators("container.txt"),
     "hidden_word": load_indicators("hidden_word.txt"),
     "homophone": load_indicators("homophone.txt"),
-    "double_def": load_indicators("double_def.txt"), 
 }
 
 # classify the clue by looking for keywords
@@ -41,14 +40,7 @@ def classify_clue(text):
             tokens.add(phrase)
 
     for wordplay_type, keywords in indicators.items():
-        if wordplay_type == "double_def": # ensure that double_def is processed last
-            continue
-        else:
-            if not keywords.isdisjoint(tokens): return wordplay_type
-    
-    double_def_keywords = indicators.get("double_def")
-    if double_def_keywords.isdisjoint(tokens):
-        return "double_def"
+        if not keywords.isdisjoint(tokens): return wordplay_type
 
     return "unknown"
 
@@ -60,7 +52,7 @@ def print_test():
 
 # run the classifier on a certain range of the test set
 # save to a csv so it can be opened in sheets for easier manual annotation
-def classify_csv(start_ind=0, end_ind=100):
+def classify_csv(start_ind=0, end_ind=300):
     results = []
 
     for i, sample in enumerate(test[start_ind:end_ind]):
