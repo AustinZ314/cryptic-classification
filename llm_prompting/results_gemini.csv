@@ -339,3 +339,163 @@ Index,Clue,Solution,Predicted_Type,Annotation_Type,Notes,gemini_predicted
 498,Low average (4),mean,placeholder,Double Definition,double definition so a word that means both “low” and “average”,double definition
 499,Secretly pass piece of paper (4),slip,placeholder,Double Definition,double definition – they SLIP/secretly pass messages between themselves as they sit at the back of the classroom – sometimes on a SLIP/piece of paper.,double definition
 500,House rules constrain employer (4),user,placeholder,Hidden Word,hidden word(s) (constrain) in hoUSE Rules – and another nice surface telling a little story.,hidden word
+65,"Part of body of actors, or players (5)",torso,unknown,Hidden Word,"hidden in ""actors, or""",hidden word
+66,Refreshment left for bird (4),teal,unknown,Assemblage,refreshment (tea) + left (l),assemblage
+67,Proposed name I don't change (9),nominated,placeholder,Anagram,“change” indicates anagram of “name i don’t”,anagram
+68,Tough guys breaking ribs? Sure! (8),bruisers,placeholder,Anagram,”breaking” indicates anagram of “ribs sure”,anagram
+69,File in woodland getting lost (8),download,placeholder,Anagram,“getting lost” indicates anagram of “woodland”,anagram
+70,Utopian novel italicised (10),idealistic,placeholder,Anagram,“novel” indicates anagram of “italicised”,anagram
+71,"Agreed toe is deformed somewhat (2,1,6)",to a degree ,placeholder,Anagram,“deformed” indicates anagram of “agreed toe”,anagram
+72,Sterile unit fenced off (10),uninfected,placeholder,Anagram,“off” indicates anagram of “unit fenced”,anagram
+73,"Tricky problem, brewing artisan beer (5-6)",brain-teaser ,placeholder,Anagram,“brewing” indicates anagram of “artisan beer”,anagram
+74,Promise to fix toilet pan (9),potential,placeholder,Anagram,“to fix” indicates anagram of “toilet pan”,anagram
+75,Smear pan to cook cheese (8),parmesan,placeholder,Anagram,“to cook” indicates anagram of “smear pan”,anagram
+76,Tie up an awkward flower (7),petunia,placeholder,Anagram, “awkward” indicates anagram of “tie up an”,anagram
+77,Uncommon sense in a German city (5),essen,placeholder,Anagram,“uncommon” indicates anagram of “sense”,anagram
+78,"Simple dish — not as snob ate in mess (5,2,5)",beans on toast,placeholder,Anagram,“in mess” indicates anagram of “not as snob ate”,anagram
+79,Scrub fork clean for a bit of breakfast (9),cornflake,placeholder,Anagram,“scrub” indicates anagram of “fork clean”,anagram
+80,"Loss of earnings shocking to Mexican (6,3)",income tax,placeholder,Anagram,“shocking” indicates anagram of “to mexican”,anagram
+81,See blonde squirming: why is she red in the face? (9),nosebleed,placeholder,Anagram,“squirming” indicates anagram of “see blonde”,anagram
+82,"Portrait of animal so original (4,4)",mona lisa,placeholder,Anagram,“original” indicates anagram of “animal so”,anagram
+83,"Beatle's back in USSR, playing tricks (5)",ruses,placeholder,Anagram,RUSES - anagram of [beatl]E + USSR.,assemblage
+84,Break out with Toad's means of locomotion (10),skateboard,placeholder,Anagram,SKATEBOARD - Anagram of BREAK + TOAD'S.,assemblage
+85,Aspic possibly combined with pepper (8),capsicum,placeholder,Anagram,CAPSICUM - Anagram of ASPIC + CUM,anagram
+86,Busts are terribly hard to grasp (8),abstruse,placeholder,Anagram,ABSTRUSE - Anagram of BUSTS ARE.,anagram
+87,The aim's to change a lack of belief in god (7),atheism,placeholder,Anagram,ATHEISM - Anagram [change] THE AIM'S,anagram
+88,Place to set free American skunk (7),polecat,placeholder,Anagram,POLECAT: (PLACE TO*) is “set free”.,anagram
+89,Ridiculous in a suit in the country (7),tunisia,placeholder,Anagram,TUNISIA - (IN A SUIT)*,anagram
+90,No tears about disloyalty (7),treason,placeholder,Anagram,TREASON – (NO TEARS)*,anagram
+91,Find beer possibly as favour (8),befriend,placeholder,Anagram,BEFRIEND - straight anagram ('possibly') of FIND BEER = BEFRIEND.,anagram
+92,"Doctor locates legible astronomical reference (9,5)",celestial globe,placeholder,Anagram," (LOCATES LEGIBLE*) [""doctor...""]",anagram
+93," Smashed single forehand? I'm not upset (2,4,8)",no hard feelings,placeholder,Anagram,"(SINGLE FOREHAND*) [""smashed""]",anagram
+94,"With pride, she loses in brawling (7)",lioness,placeholder,Anagram,Anagram of LOSES IN,assemblage
+95,"Might it be that sister? Poor nun in trouble! (8,7)",relative pronoun,placeholder,Anagram,RELATIVE + anagram of POOR NUN.   The DBE is clearly indicated by the question mark.,assemblage
+96,Shrub with red or white flowers — unusually red alone (8),oleander,placeholder,Anagram,anagram of (unusually) RED ALONE.,anagram
+97,Paraffin oil’s odd treatment for sore knee (8),kerosene,placeholder,Anagram,anagram of (odd treatment for) SORE KNEES.,anagram
+98,Rue eroticism that’s deviant and only superficially attractive (12),meretricious,placeholder,Anagram,anagram of (that's deviant) RUE EROTICISM.,anagram
+99,Bony eel takes cooking (8),skeletal,placeholder,Anagram,anagram of (cooking) EEL TAKES.,anagram
+100,"New throne for queen, perhaps (6)",hornet,placeholder,Anagram," *(THRONE) with ""new"" signposting the anagram.  The female hornet is a queen: did not know this, but seemed eminently plausible on the basis of a queen bee so in it went…",anagram
+101,Fruity buns turn scorched on the outside? (8),sunburnt,placeholder,Anagram,"*(BUNS TURN) with ""fruity"" signalling the anagram",anagram
+102,"I rent, poor and lazy (5)",inert,placeholder,Anagram,Anagram [poor] of I rent. As in lazy as a motionless couch potato.,anagram
+103,US president plying heroes with wine (10),eisenhower,placeholder,Anagram, anagram (plying) of HEROES with WINE,anagram
+104,Frank having credit renewed (6),direct,placeholder,Anagram,anagram (renewed) of CREDIT,anagram
+105,"Out of order, nameless traders (8)",salesmen,placeholder,Anagram,anagram (out of order) of NAMELESS,anagram
+106,Sang with partner? Awful deed: tut! (7),duetted,placeholder,Anagram,"*(DEED TUT) with ""awful"" pointing to the anagram",anagram
+107,Sibling ignoring the second disturbance (6),bother,placeholder,Assemblage,Ignore the second letter in “brother” (sibling) to get “bother”,assemblage
+108,I'm taken aback by anger? That's an illusion (6),mirage,placeholder,Assemblage,"MIRAGE - reversal (taken aback) of I'M, + RAGE (anger)",assemblage
+109,"Leave on Christmas morning, possibly with papa (6)",decamp,placeholder,Assemblage,DECAMP - DEC AM P (code word for the letter P),assemblage
+110,Magic transport needs fourth of combustion chambers to run like clockwork (10),broomstick,placeholder,Assemblage,"Combine “b” for “fourth of combustion”, “rooms” for “chambers” and “tick” for “to run like clockwork”",assemblage
+111,Refuse a black mark (7),abstain,placeholder,Assemblage,Combine “a” and “b” for black and “stain” - synonym for “mark”,assemblage
+112,It may get endless representation (5),image,placeholder,Assemblage,“endless” means take everything except last letters of “it may get”,double definition
+113,Chap gets older but copes (7),manages,placeholder,Assemblage,Combine “man” for “chap” and “ages” for “gets older”,assemblage
+114,Sound beginning when hummingbird is rapidly returning (5),whirr,placeholder,Assemblage,“beginning” means take the first letters in “when hummingbird is rapidly returning”,assemblage
+115,"Begin to understand material one doesn't finish (6,2)",cotton on,placeholder,Assemblage,"COTTON ON - COTTON (material) + ON{e} (one doesn't finish, i.e. ""one"" without its last letter)",assemblage
+116,Initiation that's suitable is in British Museum (7),baptism,placeholder,Assemblage,"BAPTISM - APT (suitable) + IS, all inside BM (British Museum)",container
+117,Family member doesn't start to let loose (5),untie,placeholder,Assemblage,"UNTIE - {A}UNTIE (Family member doesn't start, i.e. ""Auntie"" without its initial letter)",assemblage
+118,Extremely desirable drug store (5),depot,placeholder,Assemblage,"DEPOT - D{esirabl}E (Extremely desirable, i.e. the first and last letters of ""desirable"") + POT (drug)",assemblage
+119,"Lights finally low, central heating on, kiss and cuddle (6)",smooch,placeholder,Assemblage,SMOOCH - {light}S + MOO + C.H.,assemblage
+120,Burned remains after emptying secret store (5),stash,placeholder,Assemblage,STASH - ASH [burned remains] after S{ecre}T,assemblage
+121,"Smile, darling, although missing a tooth (7)",grinder,placeholder,Assemblage,"GRINDER - GRIN, DE{a}R",assemblage
+122,Saying little boy almost in shape for ice cream? (7),laconic,placeholder,Assemblage,LACONIC - LA{d} + CONIC [in shape for ice cream],assemblage
+123,"Speak badly of drug, taken regularly in tiny amount (7)",traduce,placeholder,Assemblage,TRADUCE - D{r}U{g} in TRACE,anagram
+124,"Palladium, introducing old character, cut back (6)",pruned,placeholder,Assemblage,"PRUNED - Pd ""introducing"" RUNE",assemblage
+125,"A couple of lines crossing everywhere (3,4)",all over,placeholder,Assemblage,ALL OVER - A + LL + OVER,assemblage
+126,Check a Buddhist at regular intervals (5),audit,placeholder,Assemblage,"AUDIT - A [b}U[d]D[h]I[s]T, an amusing idea, with a team of accountants examining the books at the temple.",hidden word
+127,Worker occasionally draws injured people (10),casualties,placeholder,Assemblage,"CASUALTIES - CASUAL + TIES, once again a brilliant surface that is hard to break down.",assemblage
+128,Begin to deal with notice on deck (7),address,placeholder,Assemblage,"ADDRESS - AD + DRESS, in the sense of deck the halls.",assemblage
+129,"Introduce American drug, ignoring blood group (5,2)",usher in,placeholder,Assemblage,USHER IN - US HER[o]IN.,assemblage
+130,"No fewer than fifty each in a test (not English) (2,5)",at least,placeholder,Assemblage,"AT LEAST - AT(L EA)[e]ST, a rather elaborate clue for an obvious answer.",container
+131,Financial supporter not available to back hairdressing product (5),angel,placeholder,Assemblage,"ANGEL - NA (not available) reversed [back], GEL (hairdressing product). I first came across this type of angel as backers who invest in theatrical productions, but it can also be used for other kinds of enterprise.",assemblage
+132,"School prize went to son, finally (4)",eton,placeholder,Assemblage,"ETON - {priz}E, {wen}T. {t}O, {so}N [finally]",hidden word
+133,Arab friend — European gets one for nothing (11),palestinian,placeholder,Assemblage,PALESTINIAN - PAL (friend) + ESTONIAN (European) with I instead of O,assemblage
+134,Hoofed mammal in Kansas occasionally (3),ass,placeholder,Assemblage,ASS - every other letter from (occasionally) kAnSaS.,hidden word
+135,Rescue dog losing tail (8),retrieve,placeholder,Assemblage,RETRIEVE - RETRIEVEr (dog) minus its last letter (losing tail).,assemblage
+136,"Firm multiplied by showing work of Dickens (4,5)",hard times,placeholder,Assemblage,HARD TIMES - HARD (firm) + TIMES (multiplied by),assemblage
+137,Put friend in the picture in a relaxed way (10),informally,placeholder,Assemblage,INFORMALLY - INFORM ALLY,assemblage
+138,A silencing word remains (3),ash,placeholder,Assemblage,"A, then SH.",assemblage
+139," Very harmful to take out city on Atlantic coast, American (11)",deleterious,placeholder,Assemblage,DELETE RIO US [take out | city on Atlantic coast | American],assemblage
+140,"Steep drop in price amended, then restated without right (9)",precipice,placeholder,Assemblage,"(PRICE*) [""amended""] + P{r}ICE [price again, this time minus R for right]",anagram
+141,A story with beginning repeated is easily approached (7),affable,placeholder,Assemblage,"A F-FABLE [a | story, with (its first letter) repeated]",assemblage
+142,"Boy with it turns, following effect of the moon? (5)",tidal,placeholder,Assemblage," LAD [boy] with IT, all reversed",assemblage
+143,I very much refuse to consider weather indicator (6),isobar,placeholder,Assemblage,I SO BAR [I | very much | refuse to consider],assemblage
+144,Despairing poet moving end of verse to earlier position (5),bleak,placeholder,Assemblage,BLAKE [poet] moving {vers}E up a couple of letters,anagram
+145,"Server misses one playing pool game (5,4)",water polo,placeholder,Assemblage,"WA[i]TER + anagram of POOL.   I biffed, and did not even realize 'pool' was not part of the definition - which it easily could be",assemblage
+146,Former heads of our legal department (3),old,placeholder,Assemblage,First letters of (heads of) Our Legal Department,assemblage
+147,"Loco caught by travelling icon, always on the move (7)",nomadic,placeholder,Container,NOMADIC - MAD in ICON*,container
+148,Everyone in short dash for US city (6),dallas,placeholder,Container,Put “all” for “everyone” inside “das” for “short dash”,container
+149,European power limited by genuine revocation (6),repeal,placeholder,Container,Insert “EP” for “European power” into “real” for “genuine”,container
+150,"Cursed, being literally last in bed (7)",blasted,placeholder,Container,Put “last” inside “bed”,container
+151,Trap surrounded by enchantment is irresistible (8),magnetic,placeholder,Container,Put “net” for “trap” inside “magic” for “enchantment”,container
+152,Standard offer of a choice of ends for Nottingham (8),norm,placeholder,Container,Put “or” for “choice” between the ends of “nottingham” - “n” and “m”,assemblage
+153,Province in actual centre of Germany (5),realm,placeholder,Container,"REALM - REAL (actual) + {Ger}M{any} (centre of Germany, i.e. the middle letter of ""Germany"")",assemblage
+154,Youngster swallows large part of tooth (4),pulp,placeholder,Container,PULP - PUP swallows L,container
+155, Router sends digger round Bath (10),dispatcher,placeholder,Container,DISPATCHER - DITCHER round SPA,container
+156,In airport goddess replaces old Christian (8),lutheran,placeholder,Container,"LUTHERAN -  LUT{-o,+HERA]N.   A brtilliant clue, where a whole word is substituted for a letter.",anagram
+157,Stop outside or go (6),resort,placeholder,Container,"RESORT - RES(OR)T, as a verb.",container
+158,Strong feeling about large person fastening flies? (6),angler,placeholder,Container,"ANGLER - ANG(L)ER.   An angler, however, does not necessarily tie his own flies, althought it is traditional to do so.",container
+159,"Reveal temperature in Spanish city (3,2)",let on,placeholder,Container,LET ON - T (temperature) contained by [in]  LEÓN (Spanish city). ,container
+160,Again plan harvest around first of May (5),remap,placeholder,Container,REMAP - REAP (harvest) containing [around] M{ay} [first],container
+161,Unmarried man excited Chloe in pub (8),bachelor,placeholder,Container,BACHELOR - Anagram [excited] of CHLOE contained by [in] BAR (pub),anagram
+162,Rock walls enable repression (10),swallowing,placeholder,Container,"SWALLOWING - SW(ALLOW)ING. If you swallow emotions, for instance, you repress them.",container
+163,Like part of viewer’s money invested in Madrid team (7),retinal,placeholder,Container,RETINAL - RE(TIN)AL.,container
+164,Hat that’s extremely comfortable crossing northern lake (6),cloche,placeholder,Container,"CLOCHE - C(LOCH)E, where the enclosing letters come from C[omfortabl]E.",container
+165,"Praise silent type, advancing initially into battle (11)",acclamation,placeholder,Container,"ACCLAMATION - CLAM (silent type) + A (advancing initally), in ACTION (battle)",container
+166,Useless worker endlessly about to finish cell extension (7),dendron,placeholder,Container,"DENDRON - DRON{e} (Useless worker endlessly) around END (to finish), to give (Chambers): ""A branching projection of a nerve cell"". Not a word I knew but it seemed believable as I knew of other dendr- words.",assemblage
+167,Fish holding short stick in biannual event (8),solstice,placeholder,Container,SOLSTICE - SOLE (fish) containing (holding) all-but-the-last letter of (short) STICk.,container
+168,"Sprinter, perhaps, allowed in running heat (7)",athlete,placeholder,Container,ATHLETE - LET (allowed) inside an anagram of (running) HEAT.,anagram
+169,Proudly claim vessel carries spades (5),boast,placeholder,Container,BOAST - BOAT (vessel) 'carries' an S (spades in bridge notation),container
+170,Certain about Chile’s capital being somewhere in the Andes (5),sucre,placeholder,Container,"SUCRE – SURE = certain, around C(hile)",container
+171,Trinity right within you (5),three,placeholder,Container,THREE: R in THEE.,container
+172,Dairy product a girl takes in bed (7),ricotta,placeholder,Container,"RICOTTA - COT in RITA (random, typically uneducated, woman)",anagram
+173,Deep thought: odd state to beset one (10),rumination,placeholder,Container,"RUM NATION, around I for one.",assemblage
+174,"Monkey lives around borders of Kenya, to the west (4)",saki,placeholder,Container," IS around K{eny}A, all written right to left. I didn’t know the monkey, but I did know there was a humourist who called himself SAKI, so I could guess where the name came from.",container
+175,"Passage which crosses river, ending in Idaho (6)",throat,placeholder,Container,"THAT (which), around R (river) and O (ending in “Idaho”).",container
+176,"Just this for Latin scholar, with others hanging around (7)",ethical,placeholder,Container,"HIC [this, for Latin scholar] with ET AL [others] ""hanging around”",assemblage
+177,Be sad for us in midst of glumness (5),mourn,placeholder,Container,OUR [for us] in {glu}MN{ess},container
+178,Geographical area in study with infestation by insect (6),canton,placeholder,Container,"CON [study] ""with infestation by"" ANT [insect]",container
+179,"Surrounded by a fog, holding on to daughter (6)",amidst,placeholder,Container,"A MIST [a fog], ""holding on to"" D [daughter]",container
+180,Is jabbing American after somewhat cheeky expression of age (8),archaism,placeholder,Container,"IS ""jabbing"" AM [American], after ARCH [somewhat cheeky]",assemblage
+181,Suspends comments about post finally (5),stays,placeholder,Container,SAYS [comments] about {pos}T,container
+182,Relaxation involves identification of alternative holiday venue (6),resort,placeholder,Container,"REST [relaxation] involves OR [identification of alternative, wordily enough]",double definition
+183," Woman impresses youngster, eating a Mexican dish (9)",enchilada,placeholder,Container,"ENA [woman] impresses CHILD [youngster], eating A",container
+184, Trial in US city making the news (6),latest,placeholder,Container,L.A. TEST [trial in US city],assemblage
+185,Historic city reduced in particular view of the past (10),retrospect,placeholder,Container,"TRO{y} [historic city, ""reduced""] in RESPECT [particular]",container
+186,Learner in military group not exactly bright (5),unlit,placeholder,Container,"UN(L)IT, a relief from the usual chestnut.",container
+187,Cuckoo making beastly noise (7),barking,placeholder,Double Definition,nan,double definition
+188,Encouraging sign from sleepy land? (3),nod,placeholder,Double Definition,Double definition: “encouraging sign” meaning nod of approval and “sleepy land” - a land of nod,double definition
+189,Back in a short while (6),second,placeholder,Double Definition,Double definition: “back” and “a short while”,double definition
+190,Wear out an important part of a car (4),tire,placeholder,Double Definition,Double definition: “wear out” and “an important part of a car”,double definition
+191,Stipulations for academic periods (5),terms,placeholder,Double Definition,Double definition: “stipulations” and “academic periods”,double definition
+192,My virtue (8),goodness,placeholder,Double Definition,Double definition: the first an exclamation of surprise “my goodness” and “virtue” is a synonym,double definition
+353,Earnestly request naughty child to get learning (7),implore,placeholder,Assemblage,charade of IMP (naughty child) + (to get) LORE (learning). The “to get” is an instruction that the first word gets this added.,assemblage
+354,Spring asparagus? Just a selection thereof (3),spa,placeholder,Hidden Word,hidden word(s) (just a selection thereof) in aSPAragus – with quite a long hidden word indicator.,hidden word
+355,Courage boarding commoner vessel (5),nerve,placeholder,Hidden Word,hidden word(s) (boarding) commoNER VEssel – and another unusual hidden word indicator. It’s indicating something inside the letters following.,hidden word
+356,Reckoning mountaineer is confused (11),enumeration,placeholder,Anagram,anagram of (MOUNTAINEER)* with an anagrind of “is confused”. There are a few setters who like these long single word anagrams.,anagram
+357,Wild dog’s noise and energy (5),dingo,placeholder,Assemblage,charade of DIN (noise) + (and) GO (energy) for this wild dog.,assemblage
+358,Nectar drunk? Abstracted state (6),trance,placeholder,Anagram,anagram of (NECTAR)* with an anagrind of “drunk”.,anagram
+359,"Thoughtful, repairing desecration (11)",considerate,placeholder,Anagram,anagram of (DESECRATION)* with an anagram of “repairing”.,anagram
+360,Remains with rocky material on the beach (6),ashore,placeholder,Assemblage,charade of ASH (remains) + (with) ORE (rocky material),assemblage
+361,Desert refuge? Nothing in current form (5),oasis,placeholder,Assemblage,"charade of O (nothing) + AS IS (current form) – and a question mark as a definition by example, because this is just one example of a desert refuge.",assemblage
+362,Warmth suffusing the atmosphere (4),heat,placeholder,Hidden Word,"hidden word(s) (suffusing) in tHE ATmosphere – with another hidden indicator that suggests something internal, but works to mislead as it fits the other words in the clue.",hidden word
+363,"Leave in middle of stint, being cross (5)",tigon,placeholder,Container,GO (leave) in [s]TIN[t],container
+364,"Crime is a burden, one ignored on the Left? (9)",sinistral,placeholder,Assemblage,SIN (crime) + IS + TR[i]AL (burden) minus i (one),assemblage
+365,Additional symbol of affection beginning to torment in time (5),extra,placeholder,Container,X (symbol of affection) + T[orment] in ERA (time),assemblage
+366,"One criticising UK currency, keeping it personal to begin with (9)",nitpicker,placeholder,Container,NICKER (slang for pound – UK currency) round IT P[ersonal],container
+367,"A delightful time, welcoming soldiers in public areas (6)",agoras,placeholder,Container,A GAS (a delightful time) round OR (soldiers),assemblage
+368,Pleasure boats? Sod pleasure – not certain at sea (7),pedalos,placeholder,Anagram,An anagram (at sea) of SOD PLEA[sure] minus sure – certain,anagram
+369,"Rather drunk, though maintaining motorway’s maximum speed, perhaps (5)",limit,placeholder,Container,LIT (rather drunk) round MI (motorway),container
+370,Artists in request for more during economies (7),cubists,placeholder,Container,"BIS (‘twice’ – in a musical score, a direction that a part should be repeated) in CUTS (economies)",container
+371,"Venerated symbol, feature of racetrack, followed by millions (5)",totem,placeholder,Assemblage,TOTE (feature of race track) + M (millions),assemblage
+372,"Imposition of socialism would mean this immediately? (5,4)",right away,placeholder,Double Definition,nan,double definition
+373,Roughly repair gun inclining to shoot high? (9),uprearing,placeholder,Anagram,An anagram ( roughly) of REPAIR GUN,anagram
+374,Chap’s imprisoning a good many slaves (6),helots,placeholder,Container,HE’S (chap’s) round LOT (a good many),assemblage
+375,Acceptable to interrupt a jabber? (5),poker,placeholder,Container,OK (acceptable) in PER (a),container
+376,Leave pitch for final battle (8),shootout,placeholder,Assemblage,a charade of SHOO (‘leave’ as imperative) plus TOUT (‘pitch’).,assemblage
+377,"Aerosol device possibly empty, gas having run out (5,3)",spray gun,placeholder,Anagram,An anagram (‘out’) of PY (‘PossiblY empty’) plus ‘gas’ plus ‘run’.,assemblage
+378,One of seven bands that’s popular enjoy love (6),indigo,placeholder,Assemblage,"A charade of IN (‘popular’) plus DIG (‘enjoy’) plus O (‘love’), for one of the traditional seven colours of the rainbow.",assemblage
+379,Agent exhausted having killed leader and rescued girl (8),emissary,placeholder,Container,An envelope (‘rescued’?) of MISS (‘girl’) in [w]EARY (‘exhausted’) minus its first letter (‘having killed leader’).,assemblage
+380,"Astound Cockney Casanova? (4,4)",bowl over,placeholder,Assemblage,"A charade of BOW (‘Cockney’, of someone born within the sound of Bow Bells) plus LOVER (‘Casanova’).",assemblage
+381,Design I dropped flourished (10),brandished,placeholder,Assemblage,A charade of BRAND (‘design’) plus ‘I’ plus SHED (‘dropped’).,assemblage
+382,"The satanic works, atheist can too then! (2,4,4)",in that case,placeholder,Anagram,"An anagram (‘works’) of ‘the satanic’, and also (‘too’) of ‘atheist can’.",anagram
+383,"Record for example in brief, bar lifted? (8)",register,placeholder,Container,An envelope (‘in’) of E.G. (‘for example’) in [bar]RISTER (‘brief’) minus BAR (‘bar lifted’).,assemblage
+384,Page and covers – those to check? (6),proofs,placeholder,Assemblage,A charade of P (‘page’) plus ROOFS (‘covers’).,assemblage

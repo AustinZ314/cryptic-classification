@@ -84,6 +84,13 @@ def run_batch_classification(input_csv, output_csv, model_choice, sleep_time=5, 
                 response = get_gpt_response(prompt, GPT_KEY)
             
             try:
+                if "empty" in response:
+                    print(f"Skipping JSON parse for batch {i} due to API error: {response}")
+                    for _, row_data in batch_df.iterrows():
+                        writer.writerow(list(row_data) + ["Error: Empty response"])
+                    f.flush()
+                    # time.sleep(sleep_time)
+                    continue
                 # Parse the JSON response
                 # We strip potential markdown blocks like ```json ... ```
                 clean_json = response.strip().replace("```json", "").replace("```", "")
@@ -107,6 +114,6 @@ def run_batch_classification(input_csv, output_csv, model_choice, sleep_time=5, 
     print(f"[{model_choice}] Completed. Results saved to {output_csv}")
 
 # --- EXECUTION ---
-run_batch_classification("gemini_missing.csv", "results_gemini.csv", "gemini", 0)
-# run_batch_classification("hand_annotated_500.csv", "results_llama.csv", "llama", 0)
+# run_batch_classification("gemini_missing.csv", "results_gemini.csv", "gemini", 0)
+run_batch_classification("hand_annotated_500.csv", "results_llama.csv", "llama", 0)
 # run_batch_classification("annotated_clues.csv", "results_gpt.csv", "gpt", 0)
