@@ -1,101 +1,301 @@
 Index,Clue,Solution,Predicted_Type
 0,"A long time, but Christmas is almost over",eon,unknown
-1,A warning to stop the plantation of trees,forestation,double_def
+1,A warning to stop the plantation of trees,forestation,unknown
 2,Amusing queen brewed ale that's dark,funereal,anagram
-3,Be established as keeper for team?,exist,double_def
-4,Outstanding repeat for singer,lulu,double_def
+3,Be established as keeper for team?,exist,unknown
+4,Outstanding repeat for singer,lulu,unknown
 5,Appropriately placed university not very funny,insitu,anagram
 6,"Where ""Three Oranges"" could be a winner?",fruitmachine,anagram
-7,"Author Thomas, queen, is overcoming male idiosyncrasy",mannerism,double_def
-8,"Great rap moves involving boy, soon an outcast",personanongrata,double_def
+7,"Author Thomas, queen, is overcoming male idiosyncrasy",mannerism,unknown
+8,"Great rap moves involving boy, soon an outcast",personanongrata,unknown
 9,A fresh flower is opening,aperture,anagram
 10,Straighten out daughter I roused by point of view,disentangle,anagram
 11,Transport put back on row,bustup,anagram
-12,Winnie finds degree hard for a multi-tasker,poohbah,double_def
-13,A pleasure at the beach? You may not have it up the creek,paddle,double_def
+12,Winnie finds degree hard for a multi-tasker,poohbah,unknown
+13,A pleasure at the beach? You may not have it up the creek,paddle,unknown
 14,These might secure lock at back: not keys to house,reefknots,unknown
-15,Bishop might help attendant,barmaid,double_def
-16,You'll surprise someone by taking him this,aback,double_def
-17,"Where barcarolle may be heard by ""The King and I"" singer?",rialto,unknown
+15,Bishop might help attendant,barmaid,unknown
+16,You'll surprise someone by taking him this,aback,unknown
+17,"Where barcarolle may be heard by ""The King and I"" singer?",rialto,homophone
 18,Jock's sorry about colour,ochre,anagram
 19,Able seaman's leader knocked off,skilled,anagram
 20,Flipping hard exercises: Nutmeg's in time and they don't last long,ephemera,unknown
-21,"Spray a lover, then look up",aerosol,double_def
+21,"Spray a lover, then look up",aerosol,unknown
 22,"Golden syrup runs clear, when poured into hollow tube",treacle,unknown
-23,"It's overgrown with evergreen, one contended",ivied,double_def
+23,"It's overgrown with evergreen, one contended",ivied,unknown
 24,"Bound for empty line, about to get in it",frontier,anagram
 25,Celebrate about rise in king's payment to serving man,shilling,anagram
 26,"Rule, which comes from above, they say",reign,assemblage
-27,"Polluted: ""No Admittance"" order required",contaminated,double_def
-28,Writer's report of fast food,berger,unknown
-29,Place of judgement where Penny advanced tycoon,pearlygates,double_def
-30,Completely blown away by mixing spice to those?,shottopieces,double_def
+27,"Polluted: ""No Admittance"" order required",contaminated,unknown
+28,Writer's report of fast food,berger,homophone
+29,Place of judgement where Penny advanced tycoon,pearlygates,unknown
+30,Completely blown away by mixing spice to those?,shottopieces,unknown
 31,Group of musicians - or it could be,trio,anagram
 32,Drink coming in dribble at back of pub,booze,unknown
 33,Indian city on a river? On the contrary,poona,anagram
-34,Dealer's left distributing the LSD and ecstasy,eldesthand,double_def
+34,Dealer's left distributing the LSD and ecstasy,eldesthand,unknown
 35,Hides tube behind leaves,goesunderground,hidden_word
 36,Holds until completely motionless,stockstill,container
 37,Age and date of birth set up in this kind of shop,bodega,anagram
 38,Wearer of trousers lacking sort of turn-up?,user,anagram
-39,Build a lead in tennis?,setup,double_def
+39,Build a lead in tennis?,setup,unknown
 40,Retiring extrovert,outgoing,unknown
-41,Power-sharing puts the French in logical fix,collegial,double_def
+41,Power-sharing puts the French in logical fix,collegial,unknown
 42,Writer about to set up cheap material on eastern ruler,potentate,anagram
-43,Jumbo pilot?,mahout,double_def
+43,Jumbo pilot?,mahout,unknown
 44,Look round New York - it's crazy!,loony,anagram
-45,Same as belt fashioned in lead and zinc?,basemetals,double_def
+45,Same as belt fashioned in lead and zinc?,basemetals,unknown
 46,Put off having criminal freed,defer,anagram
 47,With the final change there's a certain amount of heat,therm,anagram
-48,Local tour that goes swimmingly?,pubcrawl,double_def
+48,Local tour that goes swimmingly?,pubcrawl,unknown
 49,"Rule to ignore, bent - nothing's lost",reign,anagram
-50,Children's game gets you and me in river,tagus,double_def
-51,Part of the way open is to nearest South Yorkshire town,penistone,double_def
+50,Children's game gets you and me in river,tagus,unknown
+51,Part of the way open is to nearest South Yorkshire town,penistone,unknown
 52,Posted under protective cover,mailed,assemblage
 53,"Breakfast food made greasy, filling tramp after release of gas",boiledegg,anagram
 54,Get control of silly mid-on before tea break,dominate,anagram
-55,"The ref stared furiously, collaring United's sweeper",featherduster,double_def
-56,One taking part in an emergency,understudy,double_def
-57,One with rigid behind,astern,double_def
+55,"The ref stared furiously, collaring United's sweeper",featherduster,unknown
+56,One taking part in an emergency,understudy,unknown
+57,One with rigid behind,astern,unknown
 58,Layers start out with one,strata,anagram
-59,Boast of seating quite near the stage?,crow,double_def
-60,Immediately beyond control,outofhand,double_def
+59,Boast of seating quite near the stage?,crow,unknown
+60,Immediately beyond control,outofhand,unknown
 61,"Upswing about right with the club, which moves through the air",broomstick,anagram
-62,Report of holiday you forfeit requires sugar,laevulose,unknown
-63,Island keys in storm,skye,double_def
+62,Report of holiday you forfeit requires sugar,laevulose,homophone
+63,Island keys in storm,skye,unknown
 64,One article of faith about what Jesus implied?,iamgod,anagram
-65,"Tina divorced from Melody, seeking drink",cava,double_def
-66,Directions sailor needed to clean deck,swab,double_def
+65,"Tina divorced from Melody, seeking drink",cava,unknown
+66,Directions sailor needed to clean deck,swab,unknown
 67,British medic hasn't started to develop,burgeon,anagram
-68,Buoyant whale riding in front,upbeat,double_def
-69,Scott's reserve in reduced game,slimbridge,double_def
-70,Sillier nut who improvised as radio wit,willierushton,double_def
+68,Buoyant whale riding in front,upbeat,unknown
+69,Scott's reserve in reduced game,slimbridge,unknown
+70,Sillier nut who improvised as radio wit,willierushton,unknown
 71,Exhausted couple boarding old vessel,outworn,container
-72,Unspecified - a city west of this place,anywhere,double_def
+72,Unspecified - a city west of this place,anywhere,unknown
 73,Help backward people and get a mouthful,diatribe,unknown
 74,Signs liable to be kicked over,traces,unknown
-75,It tightens a nut in a cleaning machine,washer,double_def
-76,Actual place for further distribution,reallocation,double_def
-77,Minor secretary kept goal during depression,dependant,double_def
-78,Chief island's headgear,topis,double_def
+75,It tightens a nut in a cleaning machine,washer,unknown
+76,Actual place for further distribution,reallocation,unknown
+77,Minor secretary kept goal during depression,dependant,unknown
+78,Chief island's headgear,topis,unknown
 79,Separate urinals out of order,insular,anagram
-80,Sixties' scooter rider claiming one dropped trousers,mooned,double_def
-81,Fortieth game to one side,ruby,double_def
+80,Sixties' scooter rider claiming one dropped trousers,mooned,unknown
+81,Fortieth game to one side,ruby,unknown
 82,Setter's opening scenes with friend done straight,impartially,anagram
 83,"New, rash and mostly wayward English bowler",shanewarne,anagram
-84,Opening fortnightly shows up,intro,double_def
+84,Opening fortnightly shows up,intro,unknown
 85,"Flirted, perhaps",trifled,anagram
 86,Dams found between Kirkcaldy and Keswick,dykes,container
 87,An area of sacred ground,acre,anagram
-88,"Part of body of actors, or players",torso,double_def
+88,"Part of body of actors, or players",torso,unknown
 89,Order to breeder coming round after time assumed,postulated,assemblage
 90,Wound up finding one score halved and another gutted,tense,anagram
 91,"Medic, before operation, takes out leader of Soho's nonconformists",dropouts,anagram
-92,Sounds like food: hello and goodbye!,ciao,unknown
+92,Sounds like food: hello and goodbye!,ciao,homophone
 93,Run out on a National horse,roan,anagram
 94,Very old figure breaking leg,stoneage,anagram
-95,Beetle takes tea with iron in it,chafer,double_def
-96,Mouth-watering church decorations,gargoyles,double_def
-97,Expense of electrical supply,charge,double_def
+95,Beetle takes tea with iron in it,chafer,unknown
+96,Mouth-watering church decorations,gargoyles,unknown
+97,Expense of electrical supply,charge,unknown
 98,"Mountain in Germany, yes? I'm climbing with new boy",benjamin,anagram
-99,The land across the sea shows when to see you,later,double_def
+99,The land across the sea shows when to see you,later,unknown
+100,Cordial conspirator not favoured by the top people,cassis,unknown
+101,Royal booze-up,regal,unknown
+102,"Concisely written ultimately, French produce cracking poem",inbrief,unknown
+103,Notice truth's obstructed by opening of show trial,adversity,unknown
+104,"Tender, say - moving or not!",sedentary,anagram
+105,Kinky corsets in private and public?,sectors,anagram
+106,Game in which draw by one point was scripted by Bennett,fivetowns,unknown
+107,Adaptable - now may we leave the course?,openended,unknown
+108,"Brown, an old joke",chestnut,unknown
+109,Shows great confidence with props and one's material,strutsonesstuff,unknown
+110,Man is the key to everything,passepartout,unknown
+111,"Cruel man, one out for the count",numerical,anagram
+112,Refreshment left for bird,teal,unknown
+113,Is one hot in sun? Conditions not hot,sweater,unknown
+114,Free toy? About time!,letgo,anagram
+115,Legislative measures followed by Romans,acts,unknown
+116,Missile launcher remains overturned - look around,peashooter,anagram
+117,Type of Russian graffiti,cyrillic,unknown
+118,Not bright of King to follow Blair's lead?,blear,unknown
+119,Dealer in a generous mood?,treater,unknown
+120,A soldier-comedian getting on with stirring up public feeling,agitation,unknown
+121,"Religious leader producin' new bull, perhaps",calvin,anagram
+122,How not to respond to a flasher?,haveitout,unknown
+123,Ocean silt may be stranded here,coastline,unknown
+124,"Girl Friday, no cook",ida,anagram
+125,Skilled amateur in union creating scene,tableau,unknown
+126,"Leaves alone, having you to follow?",letsbe,unknown
+127,No fixed abode?,mobilehome,anagram
+128,Language of novelist in church,chinese,unknown
+129,Given due attention despite being a solicitor,thoughtout,unknown
+130,Old pile condemned - at first they live inside like pigs,potbellied,container
+131,Delighted to defend drug against being promoted,elevated,assemblage
+132,"Put on weight, looked older",staged,unknown
+133,Secure forward position,lock,unknown
+134,Medical man takes time to fish,sturgeon,unknown
+135,There's no good in Mayday melodies,songs,unknown
+136,Finish on top,hairstyle,unknown
+137,A pound for a white dress,alb,unknown
+138,Virginia right to get a place in tough university,harvard,unknown
+139,Wacky baccy went down the toilet?,weed,unknown
+140,Substantial orderly,tidy,unknown
+141,"Cabbage badger doesn't finish; firm, large one",broccoli,unknown
+142,Instrument made by hunter out of broken harp,orpharion,anagram
+143,"Old queen admits: ""Executed? I'll forgive you""",pardoner,anagram
+144,Flower for the girl's the Italian way,salvia,unknown
+145,Shrub wound round pole,gorse,container
+146,Come to a vigil before noon,awaken,assemblage
+147,Showing political unity in savage newspaper leader,federal,hidden_word
+148,Out of step - a dual European city,padua,anagram
+149,Complaint about jerk being an MP,politico,anagram
+150,True capital of Moroccan kingdom,realm,unknown
+151,Counts as a run outside,extra,container
+152,Lots to go with the horn?,plenty,unknown
+153,"Bring about the demise, say, of Santa Claus",sleigh,anagram
+154,A yacht capsized in Old China,cathay,unknown
+155,Go over the limits?,beatthebounds,unknown
+156,Inlet much improved by midday?,lunchtime,unknown
+157,Plans for mottoes,devices,unknown
+158,A lot of money made as evidence of being well protected,bombproof,anagram
+159,Hit band in hurry,belt,unknown
+160,Sharpshooter's line in headgear at old city,tirailleur,unknown
+161,Penalty shot to spare,aplenty,unknown
+162,Continually does a job after hours at a masterpiece of sound,moonlightsonata,assemblage
+163,Conclude negotiations about the academic year?,agreetoterms,anagram
+164,Green and red stuff,gore,unknown
+165,"American Lesley's going out with, to no avail",uselessly,anagram
+166,Son's leaving even now to work in field,till,unknown
+167,Dismissed for illegally obstructing course of deliveries,legbeforewicket,unknown
+168,Decisive goal with almost perfect shot,winner,unknown
+169,City tune died in Ulster,nairobi,unknown
+170,Heavenly image could upset Catholic primate after Sunday,cloudscape,anagram
+171,I'll have a go at being part-commander of old Greek ship,trier,anagram
+172,"Meeting one's fate in Switzerland? O, fate!",clotho,unknown
+173,"Look out, it may have a high tar content",crowsnest,anagram
+174,Israel dissolved in drink when loosening up,liberalisation,unknown
+175,Boil acid mistakenly? That's hellish!,diabolic,unknown
+176,"Tree, one providing great service?",acer,hidden_word
+177,Suggestion of salt in this without appeal?,lastresort,container
+178,PTO in spring,newleaf,unknown
+179,"A Greek writes one article, then I write another",athenian,anagram
+180,"Unfinished Georgian architect gets military award, the blighter!",soandso,unknown
+181,What the doctor ordered for getting fit to enter the race,tablet,anagram
+182,Bear loses head in a whirl,eddy,anagram
+183,Loosely state preference,taste,anagram
+184,"Happy, say, moving forward (no alternative)",dwarf,anagram
+185,Officer learned to protect Morse's heart,sarge,unknown
+186,Beaten by uncultured Rod Stewart remix?,worsted,unknown
+187,"Crate A, B or C (spicy and sweet)",caramel,unknown
+188,Journey to oil rig in North Africa,tripoli,unknown
+189,South African club has male member that is touring Irish county shortly,knobkerrie,hidden_word
+190,"Carter at last accessing vault, chamber finally opening",dormer,unknown
+191,Marginal produce of sewer?,hemstitch,unknown
+192,Organised peace tours where atmosphere's lacking,outerspace,unknown
+193,Irish prison officers have taken to the bottle,corkscrews,unknown
+194,Ensure boat is ordered for resort,eastbourne,anagram
+195,Party under cover?,policyholder,assemblage
+196,"Robson beating Williams, for example, winning at least six games",upset,unknown
+197,Foolishly charmed by English political manoeuvre,demarche,anagram
+198,Possibly spy on fashionable medium,psychic,anagram
+199,Regions unite concerning charity,realms,unknown
+200,"Father of James, fantastic help down under",alpheus,anagram
+201,Dressed-up street traders have nobleman tucking into tarts,pearlies,unknown
+202,Man to cheat on bird,rook,unknown
+203,Delighted with invitation to strike over low return,pleasedaspunch,unknown
+204,Stifle powerful unit in office,dampen,unknown
+205,"Wherein I might have been patriotic, but you end ferocious",brutish,unknown
+206,"Hide classical object of worship going west, then east",suede,anagram
+207,Stock buyer with register of land adjoining pit?,bullterrier,unknown
+208,"Money to tie up, fell over time",moorage,unknown
+209,Fail to include order given to Italian,omit,unknown
+210,Warning to vacate compound,caveat,unknown
+211,Churchman's rendering of waterway,decanal,anagram
+212,From sundown he could work on the Sun,newshound,unknown
+213,Paying guest loses a skirt,border,unknown
+214,Impractical brain-warping couple?,crackpot,unknown
+215,Small crowd go away,scram,unknown
+216,"High on drugs, ruins the environment",surroundings,anagram
+217,Fruit packed with energy taken by tea blender,chameleon,unknown
+218,Where some mites taking refuge set up business,industrial,anagram
+219,"Keels over, having striven in conflict",inverts,unknown
+220,Leaving open,outgoing,unknown
+221,What could make florist pay for baker's item?,filopastry,anagram
+222,Make harder to fathom,deepen,anagram
+223,Run away girl drops pen,elope,unknown
+224,"On The Beach, showing in a London street",astrand,hidden_word
+225,Fan of one of Europe's currencies almost pocketed each,zealot,unknown
+226,Conservative husband and wife prepared to meet well-informed cabinet member,chiefwhip,anagram
+227,Platitudes uttered by a philosopher?,cant,unknown
+228,Rattle for policeman's show,disconcert,unknown
+229,I object to boss - very offensive,noisome,unknown
+230,Send a gratuity in regular payment,stipend,unknown
+231,Hurried up with the cross somewhere in church?,narthex,anagram
+232,Levels the odds,evens,unknown
+233,Mystery a curious vessel contained,arcanum,container
+234,Domestic had a mind to cook,handmaid,anagram
+235,"Has a fresh egg in Lent, regardless",negligent,anagram
+236,"Profligate is no longer taking risks, enjoying life for starters",wastrel,unknown
+237,"Until now a mite shady, possibly, about one",tothisday,anagram
+238,Complaint made by qualified woman,malady,anagram
+239,Fate is cold and reluctant before love,clotho,assemblage
+240,"Coalition supplied balance, ultimately helping?",federation,unknown
+241,Callooh! Callay! Both at last within reach,handy,container
+242,Extravagant behaviour in Everest base?,highcamp,unknown
+243,Illustrations providing clue to rat?,artwork,hidden_word
+244,Heart so affected sounds can be heard within it,earshot,anagram
+245,"Natural earth's core hot, terribly",ochre,anagram
+246,Fruit containing popular mineral,olivine,container
+247,Sin of a loveless diplomat,envy,unknown
+248,Judge disowned jaunty relative,aunty,unknown
+249,"I complain at length about tennis elbow for starters, being repetitive",iterant,anagram
+250,Unit is anyhow positioned as intended,insitu,anagram
+251,You must be literate,readers,unknown
+252,Directors and cast appear on them,boards,unknown
+253,Unemployed paid less at the centre,idle,unknown
+254,Frequently out of date,ofttimes,anagram
+255,Talent that outshines all others,brilliance,unknown
+256,Nothing but diamonds is right,justice,unknown
+257,They say it's sufficient to put out,snuff,anagram
+258,Free bricks - around a tonne,letgo,anagram
+259,Calm on pitch with game left in the air,phlegmatic,unknown
+260,Sinister character I back,iago,unknown
+261,Don't change this lad's headgear,stetson,anagram
+262,Lynn's upset about hole in her stockings,nylons,anagram
+263,It takes a god to injure (badly) hell,jupiter,anagram
+264,"Feeble fellow, one unwanted in bed",weed,unknown
+265,Commons vote leads to disagreement,division,unknown
+266,"A goal up, during which I gave fire to fighting men",militia,unknown
+267,Greek scholar in Muse's former quarters,eratosthenes,unknown
+268,Amazing chap with Roman name visits friend,phenomenal,unknown
+269,A bitter blow for head of the Church?,biretta,unknown
+270,Surprise people over time in therapy,treatment,unknown
+271,Impartial trade union meets a Labour leader after a time,eventual,assemblage
+272,Objects after tips turn out to be salaries,stipends,anagram
+273,Son has convulsions seeing carnage,slaughter,hidden_word
+274,Complaint voiced by overexercise to ancient physician,imhotep,homophone
+275,Gain admission by force and initiative,enterprise,unknown
+276,"Acclamation over a tumult, such as Ben Hur",charioteer,unknown
+277,Dance work substituted for last element of festival,galop,anagram
+278,Game in which you have to leap about,pelota,anagram
+279,"Bend after a blow, though dignified",august,assemblage
+280,"That's Gibson in there, up a gum tree",elemi,unknown
+281,Types holding unusual sash enter office,kisshands,anagram
+282,Instrument requiring twice as much sound foundation,doublebass,homophone
+283,Remuneration restricts staff - it's a travesty,parody,unknown
+284,Strong EU negotiations with Scotland's leader,sturgeon,unknown
+285,Logo with spaces for inclusion of Belgium and Luxembourg,emblem,unknown
+286,Follow European fishing boat,doggerman,unknown
+287,New world team's cheap Devon accommodation?,powderhamcastle,anagram
+288,Mother leaves behind the first idealised representations in the unconscious,imagoes,unknown
+289,Nameless feeler with endless story taking place during confinement,antenatal,unknown
+290,Complaint of girl about US city,malaria,anagram
+291,Evacuation: one leaves before last of Tory Opposition,enemy,assemblage
+292,Police dogs are trained to detect this number tag,hashsign,unknown
+293,Bridge players went out together under the influence,sedated,anagram
+294,Astute misrepresentation of the figure,statue,unknown
+295,Show a boy to row,aladdin,unknown
+296,"Having a rest, keeping very still with us",alive,unknown
+297,"Using speech of Sadiq Khan, say, to oust PM",oral,homophone
+298,Mound where Charles met Cromwell?,knoll,unknown
+299,Cyril and Leo playing in coalmine,colliery,unknown
