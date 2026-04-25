@@ -4,13 +4,13 @@ import time
 import os
 from dotenv import load_dotenv
 
-from gemini_wrapper import get_gemini_response
+from gemma_wrapper import get_gemma_response
 from llama_wrapper import get_llama_response
 from gpt_wrapper import get_openai_response
 
 load_dotenv()
 
-GEMINI_KEY = os.getenv("GEMINI_KEY")
+GEMMA_KEY = os.getenv("GEMMA_KEY")
 LLAMA_KEY = os.getenv("LLAMA_KEY")
 GPT_KEY = os.getenv("GPT_KEY")
 
@@ -56,8 +56,8 @@ def run_classification(input_csv, output_csv, model_choice):
             print(f"[{model_choice}] Current Index: {row['Index']}")
             prompt = build_prompt(row['Clue'], row['Solution'])
             
-            if model_choice == "gemini":
-                prediction = get_gemini_response(prompt, GEMINI_KEY)
+            if model_choice == "gemma":
+                prediction = get_gemma_response(prompt, GEMMA_KEY)
             elif model_choice == "llama":
                 prediction = get_llama_response(prompt, LLAMA_KEY)
             elif model_choice == "gpt":
@@ -73,6 +73,6 @@ def run_classification(input_csv, output_csv, model_choice):
     print(f"Results saved to {output_csv}")
 
 # comment out to run one by one
-# run_classification("annotated_clues.csv", "results_gemini.csv", "gemini")
+# run_classification("annotated_clues.csv", "results_gemma.csv", "gemma")
 # run_classification("annotated_clues.csv", "results_llama.csv", "llama")
 # run_classification("annotated_clues.csv", "results_gpt.csv", "openai")

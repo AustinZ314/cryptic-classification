@@ -1,6 +1,6 @@
 from google import genai
 
-def get_gemini_response(prompt, api_key):
+def get_gemma_response(prompt, api_key):
     client = genai.Client(api_key=api_key)
     
     try:

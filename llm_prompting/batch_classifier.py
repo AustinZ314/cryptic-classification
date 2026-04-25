@@ -5,13 +5,13 @@ import os
 import json
 from dotenv import load_dotenv
 
-from gemini_wrapper import get_gemini_response
+from gemma_wrapper import get_gemma_response
 from llama_wrapper import get_llama_response
 from gpt_wrapper import get_gpt_response
 
 load_dotenv()
 
-GEMINI_KEY = os.getenv("GEMINI_KEY")
+GEMMA_KEY = os.getenv("GEMMA_KEY")
 LLAMA_KEY = os.getenv("LLAMA_KEY")
 GPT_KEY = os.getenv("GPT_KEY")
 
@@ -73,9 +73,9 @@ def run_batch_classification(input_csv, output_csv, model_choice, sleep_time=5, 
             prompt = build_batch_prompt(clue_chunk)
             
             # Call the appropriate model wrapper
-            if model_choice == "gemini":
+            if model_choice == "gemma":
                 # Uses Gemma-4-31B-it as discussed
-                response = get_gemini_response(prompt, GEMINI_KEY)
+                response = get_gemma_response(prompt, GEMMA_KEY)
             elif model_choice == "llama":
                 # Uses Llama-3.1-8B-Instruct (via Groq)
                 response = get_llama_response(prompt, LLAMA_KEY)
@@ -114,6 +114,6 @@ def run_batch_classification(input_csv, output_csv, model_choice, sleep_time=5, 
     print(f"[{model_choice}] Completed. Results saved to {output_csv}")
 
 # --- EXECUTION ---
-# run_batch_classification("gemini_missing.csv", "results_gemini.csv", "gemini", 0)
+# run_batch_classification("gemma_missing.csv", "results_gemma.csv", "gemma", 0)
 run_batch_classification("hand_annotated_500.csv", "results_llama.csv", "llama", 0)
 # run_batch_classification("annotated_clues.csv", "results_gpt.csv", "gpt", 0)
