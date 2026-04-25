@@ -52,15 +52,24 @@ Clues to classify:"""
 
 def run_batch_classification(input_csv, output_csv, model_choice, batch_size=32):
     df = pd.read_csv(input_csv)
-    file_exists = os.path.isfile(output_csv)
+
+    # logic to resume running if it crashes
+    processed_indices = set()
+    if os.path.exists(output_csv):
+        existing_df = pd.read_csv(output_csv)
+        processed_indices = set(existing_df['Index'].tolist())
     
+    # filter out rows that have already been classified
+    df_to_process = df[~df['Index'].isin(processed_indices)]
+    
+    file_exists = os.path.isfile(output_csv)
     with open(output_csv, mode='a', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
         if not file_exists:
             writer.writerow(list(df.columns) + [f"{model_choice}_predicted"])
 
-        for i in range(0, len(df), batch_size):
-            batch_df = df.iloc[i : i + batch_size]
+        for i in range(0, len(df_to_process), batch_size):
+            batch_df = df_to_process.iloc[i : i + batch_size]
             current_indices = batch_df['Index'].tolist()
             
             print(f"[{model_choice}] Processing Batch: Indices {current_indices[0]} to {current_indices[-1]}")
@@ -75,20 +84,22 @@ def run_batch_classification(input_csv, output_csv, model_choice, batch_size=32)
             elif model_choice == "gpt":
                 response = get_gpt_response(prompt, GPT_KEY)
             
-            try:
-                if "empty" in response:
-                    print(f"Skipping JSON parse for batch {i} due to API error: {response}")
-                    for _, row_data in batch_df.iterrows():
-                        writer.writerow(list(row_data) + ["Error: Empty response"])
-                    f.flush()
-                    continue
+            if "Empty" in response:
+                print(f"Skipping batch starting at {curren_indices[0]} due to API error: {response}")
+                for _, row_data in batch_df.iterrows():
+                    writer.writerow(list(row_data) + ["Error: Empty response"])
+                f.flush()
+                continue
 
+            try:
                 clean_json = response.strip().replace("```json", "").replace("```", "")
                 predictions = json.loads(clean_json)
                 
                 for pred in predictions:
-                    row_data = batch_df[batch_df['Index'] == pred['id']].iloc[0]
-                    writer.writerow(list(row_data) + [pred['type'].strip().lower()])
+                    match = batch_df[batch_df['Index'] == pred['id']]
+                    if not match.empty:
+                        row_data = match.iloc[0]
+                        writer.writerow(list(row_data) + [pred['type'].strip().lower()])
                 
                 f.flush()
                 
@@ -99,6 +110,6 @@ def run_batch_classification(input_csv, output_csv, model_choice, batch_size=32)
     print(f"[{model_choice}] Completed. Results saved to {output_csv}")
 
 # --- EXECUTION ---
-# run_batch_classification("gemma_missing.csv", "results_gemma.csv", "gemma", 0)
-run_batch_classification("hand_annotated_500.csv", "results_llama.csv", "llama", 0)
-# run_batch_classification("annotated_clues.csv", "results_gpt.csv", "gpt", 0)
+run_batch_classification("austin_classify.csv", "austin_output.csv", "gemma")
+# run_batch_classification("hand_annotated_500.csv", "results_llama.csv", "llama")
+# run_batch_classification("hand_annotated_500.csv", "results_gpt.csv", "gpt")
