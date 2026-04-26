@@ -85,7 +85,7 @@ def run_batch_classification(input_csv, output_csv, model_choice, batch_size=32)
                 response = get_gpt_response(prompt, GPT_KEY)
             
             if "Empty" in response:
-                print(f"Skipping batch starting at {curren_indices[0]} due to API error: {response}")
+                print(f"Skipping batch starting at {current_indices[0]} due to API error: {response}")
                 for _, row_data in batch_df.iterrows():
                     writer.writerow(list(row_data) + ["Error: Empty response"])
                 f.flush()
@@ -110,6 +110,6 @@ def run_batch_classification(input_csv, output_csv, model_choice, batch_size=32)
     print(f"[{model_choice}] Completed. Results saved to {output_csv}")
 
 # --- EXECUTION ---
-run_batch_classification("austin_classify.csv", "austin_output.csv", "gemma")
+run_batch_classification("austin_classify.csv", "classified_dataset.csv", "gemma")
 # run_batch_classification("hand_annotated_500.csv", "results_llama.csv", "llama")
 # run_batch_classification("hand_annotated_500.csv", "results_gpt.csv", "gpt")
