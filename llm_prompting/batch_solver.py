@@ -100,6 +100,6 @@ def run_batch_solving(input_csv, output_csv, model_choice, batch_size=10):
                 print(f"Error at index {i}: {e}")
 
 # change input clue type manually
-run_batch_solving("./categories/anagram.csv", "./solved/gemma_solved_anagrams.csv", "gemma")
-# run_batch_solving("./categories/anagram.csv", "./solved/llama_solved_anagrams.csv", "llama")
+# run_batch_solving("./categories/anagram.csv", "./solved/gemma_solved_anagrams.csv", "gemma")
+run_batch_solving("./categories/assemblage.csv", "./solved/llama_solved_assemblage.csv", "llama")
 # run_batch_solving("./categories/anagram.csv", "./solved/gpt_solved_anagrams.csv", "gpt")
