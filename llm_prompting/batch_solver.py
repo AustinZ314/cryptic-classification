@@ -4,9 +4,12 @@ import time
 import os
 import json
 import re
+from dotenv import load_dotenv
 from gemma_wrapper import get_gemma_response
 from llama_wrapper import get_llama_response
 from gpt_wrapper import get_gpt_response
+
+load_dotenv()
 
 def get_soln_length(solution):
     if not solution or not isinstance(solution, str):
@@ -44,7 +47,7 @@ Clues to solve:"""
     prompt += "\nOutput:"
     return prompt
 
-def run_batch_solving(input_csv, output_csv, model_choice, category, batch_size=10):
+def run_batch_solving(input_csv, output_csv, model_choice, batch_size=10):
     df = pd.read_csv(input_csv)
     
     processed_indices = set()
@@ -97,6 +100,6 @@ def run_batch_solving(input_csv, output_csv, model_choice, category, batch_size=
                 print(f"Error at index {i}: {e}")
 
 # change input clue type manually
-run_batch_solving("anagram.csv", "./solved/gemma_solved_anagrams.csv", "gemma", "anagram")
-# run_batch_solving("anagram.csv", "./solved/llama_solved_anagrams.csv", "llama", "anagram")
-# run_batch_solving("anagram.csv", "./solved/gpt_solved_anagrams.csv", "gpt", "anagram")
+# run_batch_solving("./categories/anagram.csv", "./solved/gemma_solved_anagrams.csv", "gemma")
+run_batch_solving("./categories/assemblage.csv", "./solved/llama_solved_assemblage.csv", "llama")
+# run_batch_solving("./categories/anagram.csv", "./solved/gpt_solved_anagrams.csv", "gpt")
