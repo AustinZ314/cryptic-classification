@@ -4,6 +4,7 @@ import time
 import os
 import json
 import re
+from dotenv import load_dotenv
 from gemma_wrapper import get_gemma_response
 from llama_wrapper import get_llama_response
 from gpt_wrapper import get_gpt_response
