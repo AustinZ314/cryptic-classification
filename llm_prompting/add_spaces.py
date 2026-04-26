@@ -14,4 +14,4 @@ def add_spaced_solutions(json_source, classified_csv, output_csv):
     df_results.to_csv(output_csv, index=False)
     print(f"Solutions with spaces added. New file saved as: {output_csv}")
 
-add_spaced_solutions("naive_random_test.json", "classified_dataset.csv", "classified_with_spaces.csv")
+add_spaced_solutions("../rozner_data/naive_random.json", "classified_dataset.csv", "classified_with_spaces.csv")
