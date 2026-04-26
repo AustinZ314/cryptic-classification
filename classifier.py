@@ -78,7 +78,7 @@ def classify_json():
         clue_obj["predicted_type"] = category
         results.append(clue_obj)
     
-    with open("data/categorized.json", "w") as f:
+    with open("rozner_data/categorized.json", "w") as f:
         json.dump(results, f)
 
 # use one at a time, csv is for testing how good the classifier is and manual annotation

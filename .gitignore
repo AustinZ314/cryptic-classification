@@ -1,6 +1,8 @@
 # data folders but not files
-data/*
+rozner_data/*
 !data/guardian_2020_10_08.json.zip
 !data/disjoint.json.zip
 nocommit/
 
+.env
+__pycache__/
